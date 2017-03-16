@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "06F908AD1E7A593A006A688B"
+               BlueprintIdentifier = "06F908F01E7A5B1A006A688B"
                BuildableName = "SSKSortDemo.app"
                BlueprintName = "SSKSortDemo"
                ReferencedContainer = "container:SSKSortDemo.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "06F908C91E7A593B006A688B"
+               BlueprintIdentifier = "06F9090C1E7A5B1B006A688B"
                BuildableName = "SSKSortDemoTests.xctest"
                BlueprintName = "SSKSortDemoTests"
                ReferencedContainer = "container:SSKSortDemo.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "06F908D41E7A593B006A688B"
+               BlueprintIdentifier = "06F909171E7A5B1B006A688B"
                BuildableName = "SSKSortDemoUITests.xctest"
                BlueprintName = "SSKSortDemoUITests"
                ReferencedContainer = "container:SSKSortDemo.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "06F908AD1E7A593A006A688B"
+            BlueprintIdentifier = "06F908F01E7A5B1A006A688B"
             BuildableName = "SSKSortDemo.app"
             BlueprintName = "SSKSortDemo"
             ReferencedContainer = "container:SSKSortDemo.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "06F908AD1E7A593A006A688B"
+            BlueprintIdentifier = "06F908F01E7A5B1A006A688B"
             BuildableName = "SSKSortDemo.app"
             BlueprintName = "SSKSortDemo"
             ReferencedContainer = "container:SSKSortDemo.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "06F908AD1E7A593A006A688B"
+            BlueprintIdentifier = "06F908F01E7A5B1A006A688B"
             BuildableName = "SSKSortDemo.app"
             BlueprintName = "SSKSortDemo"
             ReferencedContainer = "container:SSKSortDemo.xcodeproj">
